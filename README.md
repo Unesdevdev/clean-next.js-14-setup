@@ -3,8 +3,10 @@
 - [x] Nextjs 14
 - [x] TypeScript
 - [x] Tailwindcss
-- [x] src directory
-- [x] @tailwind warning in vscode fixed
+- [x] Src directory
+- [x] Shadcn/ui added
+- [x] @Tailwind warning in vscode fixed
+- [x] Format on save
 
 ## Getting Started
 
