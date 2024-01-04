@@ -1,8 +1,11 @@
-## Features
+## Configuration
 
+- [x] Nextjs 14
+- [x] TypeScript
+- [x] Tailwindcss
+- [x] src directory
 - [x] @tailwind warning in vscode fixed
- 
- 
+
 ## Getting Started
 
 First, run the development server:
